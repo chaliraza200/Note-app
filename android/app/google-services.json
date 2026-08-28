@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893148464965",
+    "project_id": "my-new-note-app-aliraza-2026",
+    "storage_bucket": "my-new-note-app-aliraza-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893148464965:android:89c81760844b12f232202c",
+        "android_client_info": {
+          "package_name": "com.example.note_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY0TZmfwMgGJ4tmciI4InQb8n28RN-vSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
