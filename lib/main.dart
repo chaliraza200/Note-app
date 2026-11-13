@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:note_app/screen/add_edit_note_screen.dart';
-import 'package:note_app/screen/edit_profile.dart';
-import 'package:note_app/screen/home_screen.dart';
-import 'package:note_app/screen/login_screen.dart';
-import 'package:note_app/screen/profile_screen.dart';
-import 'package:note_app/screen/signup_page.dart';
-import 'package:note_app/screen/splash_screen.dart';
-import 'package:note_app/screen/update_password.dart';
+import 'package:note_app/screens/add_edit_note_screen.dart';
+import 'package:note_app/screens/edit_profile_screen.dart';
+import 'package:note_app/screens/home_screen.dart';
+import 'package:note_app/screens/login_screen.dart';
+import 'package:note_app/screens/profile_screen.dart';
+import 'package:note_app/screens/signup_screen.dart';
+import 'package:note_app/screens/splash_screen.dart';
+import 'package:note_app/screens/update_password_screen.dart';
 import 'firebase/firebase_options.dart';
 
 void main() async {
